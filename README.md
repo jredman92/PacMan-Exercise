@@ -4,6 +4,8 @@ Description: This project was designed to create images using the "button-onclic
 
 How to run: Copy all the files in the repository. Open the html file up in your browser.
 
+Future Improvements: I plan on having the "create" button making other pacman characters bounce around with him. I could also have the different characters follow the same pattern on the screen as in the game.
+
 MIT License
 
 Copyright (c) [2022] [Jaymie Redman]
